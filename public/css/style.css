@@ -1,6 +1,14 @@
+body {
+  background-color: #e3f7ff;
+}
+
 
 h1,h2,h3,h4,h5,p{
   font-family: 'Merriweather', serif;
+}
+
+h1 {
+  color: #0c316e;
 }
 
   h5{
@@ -114,6 +122,11 @@ a:hover{
 
   .portfolio-index .thumbnail{
     margin-bottom: 5px;
+    transition: transform .2s;
+  }
+
+  .portfolio-index .thumbnail:hover {
+    transform: scale(1.05);
   }
 
   .portfolio-index a{

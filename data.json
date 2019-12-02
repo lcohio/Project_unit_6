@@ -5,45 +5,45 @@
             "project_name": "Random Quote Generator",
             "description": "This page displays random famous quotes each time a button is clicked.",
             "technologies": ["HTML, CSS, JavaScript"],
-            "live_link": "www.google.com",
-            "github_link": "www.github.com",
-            "image_urls": "../public/img/proj_1_landing.png"
+            "live_link": "https://hardcore-franklin-b26713.netlify.com/",
+            "github_link": "https://github.com/lcohio/Project_unit_1",
+            "image_urls": "/static/img/proj_1_landing.png"
         },
         {
             "id": 1,
             "project_name": "List Pagination and Filtering",
             "description": "Write a script in vanilla JS that divides a long list into a navigable, searchable group of items.",
             "technologies": ["HTML, CSS, JavaScript"],
-            "live_link": "www.google.com",
-            "github_link": "www.github.com",
-            "image_urls": "../public/img/proj_2_landing.png"
+            "live_link": "https://admiring-davinci-b6fa54.netlify.com/",
+            "github_link": "https://github.com/lcohio/Project_list_pagination_filtering",
+            "image_urls": "/static/img/proj_2_landing.png"
         },
         {
             "id": 2,
             "project_name": "Interactive Form Validation",
             "description": "Use jQuery to validate user input in a signup form.",
             "technologies": ["HTML, CSS, JavaScript, jQuery"],
-            "live_link": "www.google.com",
-            "github_link": "www.github.com",
-            "image_urls": "../public/img/proj_3_landing"
+            "live_link": "https://quizzical-agnesi-eb6ec3.netlify.com/",
+            "github_link": "https://github.com/lcohio/Project_unit_3",
+            "image_urls": "/static/img/proj_3_landing.png"
         },
         {
             "id": 3,
             "project_name": "Object-Oriented Game Show App",
             "description": "A browser-based game similar to Wheel of Fortune that requires users to guess letters to reveal a hidden phrase.",
             "technologies": ["HTML, CSS, Object-oriented JavaScript"],
-            "live_link": "www.google.com",
-            "github_link": "www.github.com",
-            "image_urls": "../public/img/proj_4_landing"
+            "live_link": "https://happy-ramanujan-33ec2f.netlify.com/",
+            "github_link": "https://github.com/lcohio/Project_unit_4",
+            "image_urls": "/static/img/proj_4_landing.png"
         },
         {
             "id": 4,
             "project_name": "Public API Request App",
             "description": "Using the Fetch API, request a list of individuals and render individual data into a UI.",
             "technologies": ["HTML, CSS, JavaScript"],
-            "live_link": "www.google.com",
-            "github_link": "www.github.com",
-            "image_urls": "../public/img/proj_5_landing"
+            "live_link": "https://sharp-einstein-692d85.netlify.com/",
+            "github_link": "https://github.com/lcohio/Project_unit_5",
+            "image_urls": "/static/img/proj_5_landing.png"
         }
     ]
 }
